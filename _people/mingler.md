@@ -1,17 +1,17 @@
 ---
-title: Martin Marino
+title: Mingler Zarrio
 date: 2017-11-14 11:08:34 +0000
 role:
 - advisor
 - board
 sub_heading: Advisor
 thumbnail: "/assets/people/joseph-gonzalez.jpg"
-email: martin@belkirkcollege.com
+email: 'mingler@zarriobros.co'
 linkedin: ''
 layout: 'person'
 ---
 
-Martin Marino joined Belkirk in 2016 as an advisor and member of the Board.
+Mingler Zarrio joined Belkirk in 2016 as an advisor and member of the Board.
 
 Martin has his master's degree in Finance and has started three successful engineering-related ventures since 2012, and currently advises the boards of United Technologies and Bechtel.
 

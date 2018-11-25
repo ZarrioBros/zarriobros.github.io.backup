@@ -1,17 +1,16 @@
 ---
 title: Monguer Zarrio
-date: 2017-11-14 10:47:11 +0000
+date: 2018-11-01 10:47:11 +0000
 role:
 - advisor
 - staff
-thumbnail: "/assets/2018/11/25/clockworktangerine-512.png"
+thumbnail: "/assets/people/monguer.png"
 sub_heading: Pachacha
-email: monguer@zarriobros.co
+email: 'monguer@zarriobros.co'
 linkedin: ''
 layout: person
-
 ---
-Doctor Murphy Tiernan joined Belkirk in 2015 as a Professor.
+Doctor Monguer Zarrio joined Belkirk in 2015 as a Professor.
 
 He received his Ph.D in Civil Engineering from Stanford in 2003, and also holds a master's degree in Mechanical Engineering.
 

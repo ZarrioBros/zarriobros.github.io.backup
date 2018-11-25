@@ -1,16 +1,16 @@
 ---
 title: Mangler Zarrio
-date: 2017-11-14 10:54:31 +0000
+date: 2018-11-01 10:54:31 +0000
 role:
 - staff
-thumbnail: "/assets/2018/11/25/mangler.png"
+thumbnail: "/assets/people/mangler.png"
 sub_heading: Administration
-email: mangler@zarriobros.co
+email: 'mangler@zarriobros.co'
 linkedin: ''
 layout: person
-
 ---
-Charlize Babatunde joined Belkirk in 2015 as Head of Administration.
+
+Mangler Zarrio joined Belkirk in 2015 as Head of Administration.
 
 Charlize graduated with a master's degree in Industrial and Labor Relations and master's degree in Business Administration from Cornell in 2008, and worked with various non-profits before joining Belkirk..
 
