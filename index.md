@@ -1,6 +1,6 @@
 ---
 title: Inicio
-banner_image: "/assets/2018/11/25/background.jpg"
+banner_image: "/assets/2018/11/25/background-1.jpg"
 layout: landing-page
 heading: Zarrio Bros.
 partners:
