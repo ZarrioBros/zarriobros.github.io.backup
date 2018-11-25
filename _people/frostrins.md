@@ -5,12 +5,12 @@ role:
 - advisor
 - staff
 sub_heading: Professor
-thumbnail: "/assets/people/alejandra-higareda.jpg"
-email: 'frostrins@zarriobros.co'
+thumbnail: "/assets/people/frostrins.jpg"
+email: frostrins@zarriobros.co
 linkedin: ''
-layout: 'person'
----
+layout: person
 
+---
 Frostrins Zarrio joined Belkirk in 2014 as a Professor of Engineering.
 
 Kellie received her Ph.D in Biomedical Engineering from Duke University in 2007. Since graduating, Kelly has worked with Randstad Engineering as Head of Research and Development in San Jose, California.
