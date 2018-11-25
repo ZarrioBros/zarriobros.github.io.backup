@@ -1,0 +1,58 @@
+title: My awesome website
+short_title: AwesomeFoo
+description: Awesome website description
+baseurl:
+permalink: "/:path/"
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+collections:
+  people:
+    output: true
+    permalink: "/about/:path/"
+  posts:
+    output: true
+  projects:
+    output: true
+    permalink: "/projects/:path/"
+  docs:
+    output: true
+    permalink: "/docs/:path/"
+tag_page_layout: tag_page
+tag_page_dir: tag
+jekyll-archives:
+  enabled: all
+  layout: "archive"
+gems:
+  - jekyll-menus
+  - jekyll-feed
+  - jekyll-archives
+menus:
+  footer:
+    - title: Foo1
+      url: '//foo.com'
+    - title: Bar1
+      url: '//bar.com'
+  navigation:
+    - title: Foo2
+      target: true
+      url: '//foo.com'
+      children:
+      - title: Foo3
+        url: '//foo.com'
+        children:
+        - title: Foo4
+          url: '//foo.com'
+        - title: Bar4
+          url: '//bar.com'
+      - title: Bar3
+        url: '//bar.com'
+    - title: Bar2
+      url: '//bar.com'
