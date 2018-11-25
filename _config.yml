@@ -1,6 +1,7 @@
 title: Zarrio Bros
 short_title: ZarrioBros
 description: El secreto está en el mejunje
+url: '//zarriobros.co'
 baseurl:
 permalink: "/:path/"
 defaults:
