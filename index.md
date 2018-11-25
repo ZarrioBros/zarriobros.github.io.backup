@@ -25,7 +25,7 @@ textline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc semper 
   ipsum arcu, mattis ut velit eu, faucibus rhoncus purus. Fusce leo ex, lobortis et
   semper in, placerat ut neque. Suspendisse a turpis ut ante placerat vehicula.  "
 hero_button:
-  text: "¿De qué van estas movidas?"
+  text: "¿Ca pachao?"
   href: "/about"
 show_news: true
 show_staff: true
