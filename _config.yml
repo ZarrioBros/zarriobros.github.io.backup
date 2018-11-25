@@ -1,6 +1,6 @@
-title: My awesome website
-short_title: AwesomeFoo
-description: Awesome website description
+title: Zarrio Bros
+short_title: ZarrioBros
+description: El secreto está en el mejunje
 baseurl:
 permalink: "/:path/"
 defaults:
