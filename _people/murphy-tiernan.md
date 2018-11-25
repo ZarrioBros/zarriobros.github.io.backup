@@ -6,7 +6,7 @@ role:
 - staff
 thumbnail: "/assets/2018/11/25/clockworktangerine-512.png"
 sub_heading: Pachacha
-email: iris@zarriobros.co
+email: monguer@zarriobros.co
 linkedin: ''
 layout: person
 
