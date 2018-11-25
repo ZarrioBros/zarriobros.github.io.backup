@@ -2,7 +2,7 @@
 title: Inicio
 banner_image: "/assets/2018/11/15/autumn-leaf-on-still-water.jpg"
 layout: landing-page
-heading: Zarrio Bros
+heading: Zarrio Bros.
 partners:
 - "/assets/2018/11/15/favicon-512.png"
 services:
