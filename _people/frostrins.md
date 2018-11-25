@@ -5,7 +5,7 @@ role:
 - advisor
 - staff
 sub_heading: Professor
-thumbnail: "/assets/people/frostrins.jpg"
+thumbnail: "/assets/people/frostrins.png"
 email: frostrins@zarriobros.co
 linkedin: ''
 layout: person
