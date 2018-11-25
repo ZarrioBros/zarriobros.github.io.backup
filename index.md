@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Inicio
 banner_image: "/assets/2018/11/15/autumn-leaf-on-still-water.jpg"
 layout: landing-page
-heading: Lorem Ipsum
+heading: Zarrio Bros
 partners:
 - "/assets/2018/11/15/favicon-512.png"
 services:
@@ -17,7 +17,7 @@ services:
     the biotechnology sector.
   heading: Foo
   icon: ''
-sub_heading: Code monkey like fritos
+sub_heading: El secreto está en el mejunje
 textline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc semper purus
   lorem, id pretium purus tincidunt quis. Cras interdum velit vel ultrices accumsan.
   Duis pretium malesuada porta.\n\nDonec dolor quam, euismod non laoreet vitae, vehicula
@@ -25,7 +25,7 @@ textline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc semper 
   ipsum arcu, mattis ut velit eu, faucibus rhoncus purus. Fusce leo ex, lobortis et
   semper in, placerat ut neque. Suspendisse a turpis ut ante placerat vehicula.  "
 hero_button:
-  text: Do not click here!
+  text: "¿De qué van estas movidas?"
   href: "/about"
 show_news: true
 show_staff: true
