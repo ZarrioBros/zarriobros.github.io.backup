@@ -7,42 +7,42 @@ sections:
 - type: heading
   label: Content
 - type: jekyll-posts
-  label: Posts
+  label: Publicaciones
   create: all
   templates:
   - posts
 - type: jekyll-pages
-  label: Pages
+  label: Páginas
   create: all
   templates:
   - landing-page
   - default
 - type: directory
   path: _projects
-  label: Projects
+  label: Proyectos
   create: all
   match: "*"
   templates:
   - project
 - type: directory
   path: _docs
-  label: Documentation
+  label: Documentación
   create: all
   match: "*"
   templates:
   - doc
 - type: heading
-  label: Info
+  label: Información
 - type: directory
   path: _people
-  label: People
+  label: Personas
   create: all
   match: "*"
   templates:
   - person
 - type: document
   path: _data/information.yml
-  label: Contact Information
+  label: Contacto
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
